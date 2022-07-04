@@ -1,1 +1,1 @@
-# tutorials_workflow_demo_AWS
+# tutorial_workflow_demo_AWS
